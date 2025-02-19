@@ -1,0 +1,8 @@
+We (upon searching) the internet found out that our project's circuitry is very similary to this tutorial's circuit diagram 
+(https://circuitdigest.com/microcontroller-projects/arduino-solar-panel-tracker) with minor changes as mentioned.
+
+The Link to the circuit diagram is given as: 
+
+https://circuitdigest.com/fullimage?i=circuitdiagram_mic/Arduino-solar-panel-tracker-using-LDR-circuit-diagram.png
+
+Change : Please donot connect wires and 9V batttery as shown in diagram to Vin pin and ground pin of Arduino Uno.

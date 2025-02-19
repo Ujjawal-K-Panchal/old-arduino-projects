@@ -1,0 +1,3 @@
+Pulse width measurement returns value in between 0 & 102,400
+RGB color display write values range between 0 & 255
+therefore we need to divide the pulse read value by 401(approx.)
